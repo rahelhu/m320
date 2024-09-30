@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"Alle Klassen und Schnittstellen","u":"allclasses-index.html"},{"p":"org.example","l":"Angreifer"},{"p":"org.example","l":"Goalie"},{"p":"org.example","l":"Main"},{"p":"org.example","l":"Mannschaft"},{"p":"org.example","l":"Spieler"},{"p":"org.example","l":"Verteidiger"}];updateSearchResults();

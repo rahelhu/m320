@@ -1,6 +1,6 @@
 package org.example;
 /**
- * Noch Beschreibung ...... (bei allen)
+ * Angreifer sind dafür zuständig, den Ball ins Tor zu bringen.
  * @author  Rahel Hüppi
  * @version 1.0
  * @since   2024-09-23

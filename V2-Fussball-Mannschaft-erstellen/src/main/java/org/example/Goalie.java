@@ -1,5 +1,6 @@
 package org.example;
 /**
+ * Ein Goalie ist dafür da zu verhindern, dass der Ball ins Tor geworfen wird.
 * @author  Rahel Hüppi
 * @version 1.0
 * @since   2024-09-23
